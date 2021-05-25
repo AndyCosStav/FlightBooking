@@ -1,0 +1,9 @@
+D:\various\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.deps.json
+D:\various\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.dll
+D:\various\FlightBookingProblem\FlightBooking.Core\bin\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.csprojAssemblyReference.cache
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfoInputs.cache
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.AssemblyInfo.cs
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.csproj.CoreCompileInputs.cache
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.dll
+D:\various\FlightBookingProblem\FlightBooking.Core\obj\Debug\netcoreapp2.0\FlightBooking.Core.pdb
